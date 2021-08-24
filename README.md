@@ -7,8 +7,13 @@
 
 - 💬 Ask me about **React**
 
+- 📫 How to reach me **lanc_phan@hotmail.com**
+
+- ⚡ Fun fact **I drove from Toronto to Vancouver and back for 3 weeks ~ almost 9,500 km!**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/lanc_phan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lanc_phan" height="30" width="40" /></a>
 <a href="https://instagram.com/lanphantastic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lanphantastic" height="30" width="40" /></a>
 </p>
 

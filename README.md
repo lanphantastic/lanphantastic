@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NextJS and GraphQL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/lanphantastic/lanphantastic](https://github.com/lanphantastic/lanphantastic)
+- 👨‍💻 All of my projects are available at [lanphantastic](https://github.com/lanphantastic/lanphantastic)
 
 - 💬 Ask me about **React**
 

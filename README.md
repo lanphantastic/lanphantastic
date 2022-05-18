@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Lan</h1>
-<h3 align="center">A passionate full-stack developer from Canada</h3>
+<h3 align="center">A newly dad who does full-stack from Canada</h3>
 
-- 🌱 I’m currently learning **NextJS and GraphQL**
+- 🌱 I’m currently learning **NextJS, Prisma, and GraphQL**
 
 - 👨‍💻 All of my projects are available at [lanphantastic](https://github.com/lanphantastic/lanphantastic)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React and Typescript**
 
 - 📫 How to reach me **lanc_phan@hotmail.com**
 
-- ⚡ Fun fact **I drove from Toronto to Vancouver and back for 3 weeks ~ almost 9,500 km!**
+- ⚡ Fun fact: **I drove from Toronto to Vancouver and back within 3 weeks during the July 2020 ~ almost 9,500 km!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

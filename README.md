@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lan</h1>
 <h3 align="center">A newly dad who does full-stack from Canada</h3>
 
-- 🌱 I’m currently learning **NextJS, Keystone 6, Prisma, and GraphQL**
+- 🌱 I’m currently learning **NextJS, React Native, TailwindCSS, Prisma, and GraphQL**
 
 - 👨‍💻 All of my projects are available at [lanphantastic](https://github.com/lanphantastic/lanphantastic)
 
